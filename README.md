@@ -1,4 +1,4 @@
-# Hi ${yourName}, I'm Henrique! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="34px"> 🧑🏻‍💻
+# Hi ${yourName}, I'm Henrique! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="34px">👨‍💻
 
 </br>
 
