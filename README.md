@@ -3,9 +3,9 @@
 </br>
 
 <div align="center">   
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueclaranhan&layout=compact&theme=react"/>
-    &nbsp;&nbsp;&nbsp;
-    <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=henriqueclaranhan&count_private=true&show_icons=true&custom_title=Github%20Stats&hide=issues&theme=react"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueclaranhan&layout=compact&theme=react"/>
+    &nbsp;
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueclaranhan&count_private=true&show_icons=true&custom_title=Github%20Stats&hide=issues&theme=react"/>
 </div>
 
 <br>
