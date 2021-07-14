@@ -11,20 +11,21 @@
 <br>
 
 ### Abstract 🗒️
-- 💻 Computer technician course student, 5th semester - IFMS
+- 🇧🇷 Living in Brazil
 - 🌐 Web Development
+- 💻 Computer technician course student, 6th semester - IFMS
 
 <br>
 
 ## Interests 💡
 <div align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-    &ensp;&nbsp;&emsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-    &ensp;&nbsp;&emsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &ensp;&nbsp;&emsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    &ensp;&nbsp;&emsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+    &ensp;&nbsp;&emsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     &ensp;&nbsp;&emsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     &ensp;&nbsp;&emsp;
@@ -40,16 +41,16 @@
 <br><br>
 
 ## Social 📫
-<div>
+<div align="center">
     <a href="mailto:henrique.claranhan@outlook.com">
          <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:henrique.claranhan@outlook.com">
     </a>
     &nbsp;
     <a href="https://t.me/claranhan">
-        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
     &nbsp;
     <a href="https://www.instagram.com/claranhan">
-        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
 </div>
