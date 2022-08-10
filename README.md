@@ -13,7 +13,7 @@
 ### Abstract 🗒️
 - 🇧🇷 Living in Brazil
 - 🌐 Web Development
-- 💻 Computer technician course student, 7th semester - IFMS
+- 💻 Computer Technician - IFMS
 
 <br>
 
